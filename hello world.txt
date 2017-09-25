@@ -1,2 +1,5 @@
 print("Hello everybody";)
 print("hello World";)
+print("hello";)
+print("hello my dear friend";)
+print("super high level";)
